@@ -1,0 +1,40 @@
+Code techniques used in this which are outside of course are taken from:
+
+FETCH API:
+
+https://codingthesmartway.com/fetch-api-introduction-to-promised-based-data-fetching-in-plain-javascript/
+https://dev.to/devamaz/using-fetch-api-to-get-and-post--1g7d
+
+COMPOSE EMAIL:
+
+Prevent page from reloading (preventdefault)
+
+https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
+https://javascript.info/forms-submit
+https://www.w3schools.com/jsref/event_preventdefault.asp
+https://www.sitepoint.com/community/t/how-to-set-up-preventdefault-on-form-submit/245580
+
+
+DISPLAY EMAIL:
+
+CSS - White space, new line and line breaks:
+
+https://css-tricks.com/almanac/properties/w/whitespace/
+https://www.w3schools.com/cssref/pr_text_white-space.asp
+
+Ternary Operator:
+
+https://www.javascripttutorial.net/javascript-ternary-operator/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+https://www.w3schools.com/js/js_comparisons.asp
+
+String Link Method:
+https://www.w3schools.com/jsref/jsref_link.asp
+
+Links to activate javascript functions - prevent reloading page when anchor tag is clicked (javascript:void(0)):
+https://flaviocopes.com/links-for-javascript/
+https://www.geeksforgeeks.org/what-does-javascriptvoid0-mean/
+https://www.w3schools.com/jsref/event_preventdefault.asp
+
+Event Delegate
+https://davidwalsh.name/event-delegate

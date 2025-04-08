@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+#body{
+    white-space: pre-wrap;
+}
+
+#email-list{
+    color: black;
+}
+
+#title{
+    font-weight: bold;
+    border-width: medium !important;
+}
